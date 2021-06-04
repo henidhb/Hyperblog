@@ -1,0 +1,36 @@
+[33mcommit 6238c8d191defff29c7a131253a9943f501881a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Henid Herrera Baron <henid.herrera@repremundo.com.co>
+Date:   Fri Jun 4 15:57:58 2021 -0500
+
+    computo
+
+ Esta es mi historia.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit eeaba542811d0088a9f8b274bb35509b7f9de105[m
+Author: Henid Herrera Baron <henid.herrera@repremundo.com.co>
+Date:   Fri Jun 4 15:57:07 2021 -0500
+
+    Cambio trabajo
+
+ Esta es mi historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit a4475bf51ebaf7c6f30c053b11bfe7374e165c4a[m
+Author: Henid Herrera Baron <henid.herrera@repremundo.com.co>
+Date:   Fri Jun 4 15:51:46 2021 -0500
+
+    Arranco mi proyecto real con html y css
+
+ blogpst.html    | 16 [32m++++++++++++++++[m
+ css/Estilos.css |  6 [32m++++++[m
+ 2 files changed, 22 insertions(+)
+
+[33mcommit 486f2f286628a9c79f82b57ab29c15a258fb02fa[m
+Author: Henid Herrera Baron <henid.herrera@repremundo.com.co>
+Date:   Fri Jun 4 14:49:14 2021 -0500
+
+    Este es el primer commit de este archico
+
+ Esta es mi historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
